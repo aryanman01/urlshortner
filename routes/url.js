@@ -8,7 +8,7 @@ const Url = require('../models/URL');
 
 //@route    POST /api/url/shorten
 //@desc     Create short URL
-router.post('/shorten', (req, res) =>{
+router.post('/shorten', async(req, res) =>{
     const { longUrl } = req.body;
     const baseUrl = config.get('baseUrl');
 
