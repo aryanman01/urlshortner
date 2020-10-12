@@ -2,5 +2,5 @@ POST http://localhost:5000/api/url/shorten
 Content-Type: application/json
 
 {
-    "longUrl": "https://www.myntra.com/watches/michael-kors/michael-kors-women-off-white-chronograph-watch-mk6266/12035280/buy"
+    "longUrl": "https://www.flipkart.com/samsung-galaxy-m01-black-32-gb/p/itm068396ac0c4a3?pid=MOBFRZZHV9KS2XGR&lid=LSTMOBFRZZHV9KS2XGRWAWEBE&marketplace=FLIPKART&srno=s_1_13&otracker=search&otracker1=search&fm=SEARCH&iid=609605ac-6331-4732-af0f-e4cd75464ae9.MOBFRZZHV9KS2XGR.SEARCH&ppt=sp&ppn=sp&ssid=ih5dtga65s0000001602351707619&qH=a7cbfd544ee788e5"
 }
